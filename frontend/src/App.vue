@@ -27,7 +27,7 @@
     <footer class="bg-gray-800 text-white mt-12">
       <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-          <p>&copy; 2025 Movie Explorer. Developed by <a href="https://github.com/amitdubeyup" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:text-blue-300 transition-colors">Amit Dubey</a></p>
+          <p>&copy; 2026 Movie Explorer. Developed by <a href="https://github.com/Anushka799" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:text-blue-300 transition-colors">Anushka Gupta</a></p>
         </div>
       </div>
     </footer>
