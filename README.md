@@ -84,18 +84,14 @@ movie-explorer-platform/
 
 ### Option 1: Docker Setup (Recommended)
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/amitdubeyup/movie-explorer-platform.git
-   cd movie-explorer-platform
-   ```
 
-2. **Start the application**:
+
+1. **Start the application**:
    ```bash
    docker-compose up --build
    ```
 
-3. **Access the application**:
+2. **Access the application**:
    - **Frontend**: http://localhost:3000
    - **Backend API**: http://localhost:8000
    - **API Documentation**: http://localhost:8000/docs
